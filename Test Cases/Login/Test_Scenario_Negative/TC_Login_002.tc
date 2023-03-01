@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>checklist remember me</description>
+   <name>TC_Login_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e184e9b8-b916-4b3d-a2c4-a7974e6c9d1c</testCaseGuid>
+</TestCaseEntity>

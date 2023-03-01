@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Email dan password wrong
+
+Input: email: &quot;user123@gmail.com&quot;, password: &quot;password123&quot;</description>
+   <name>TC_Login_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd9db01d-1df9-4d9e-83dc-b92eccb7ecbf</testCaseGuid>
+</TestCaseEntity>
